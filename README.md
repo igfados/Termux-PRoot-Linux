@@ -1,4 +1,4 @@
-install termux x11 debian proot
+termux install xfce debian proot
 
 ```bash
 pkg update
