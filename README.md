@@ -37,3 +37,10 @@ wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scr
 chmod +x startxfce4_debian.sh
 ./startxfce4_debian.sh
 ```
+
+
+```
+sudo apt install gnome-terminal
+sudo apt install firefox
+sudo apt install unzip
+```
