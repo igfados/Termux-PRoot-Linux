@@ -10,10 +10,15 @@ proot-distro login debian
 apt update -y
 apt install nano adduser
 apt install sudo
+```
+```
 adduser root
 nano /etc/sudoers
 su ~ root
 whoami
 sudo whoami
+```
+
+```bash
 sudo apt install xfce4 -y
 ```
