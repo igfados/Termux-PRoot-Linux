@@ -23,7 +23,7 @@ su ~ dos4unix
 whoami
 sudo whoami
 ```
-
+next step
 
 ```bash
 sudo apt install xfce4 -y
